@@ -26,7 +26,7 @@ menuentry 'My Operating System' {
 
 #5 Then press ctrl+o and then press ctrl+x enter then past below command
 
-make mykernel.iso
+make install
 
 ## now restart your virtual box and press f12 and see your os on grub menu select it and you see your output.
 Thanks
