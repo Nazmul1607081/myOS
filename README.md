@@ -43,7 +43,7 @@ make install
 **Restart your virtual box and press f12 and see your os on grub menu select it and you see your output**
 
 
-##Thanks
+## Thanks
 
 
 
