@@ -24,7 +24,7 @@ menuentry 'My Operating System' {
   boot
 }
 
-#5 Then press ctrl+o and then press ctrl+x then past below command
+#5 Then press ctrl+o and then press ctrl+x enter then past below command
 
 install mykernel.bin
 make mykernel.iso
